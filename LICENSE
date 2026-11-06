@@ -1,0 +1,16 @@
+Copyright (c) 2026 Park Junhyeok (박준혁). All rights reserved.
+
+This repository is public so that the course staff and classmates of
+KMU AI에이전트실무 2026 can read the midterm submission. You may view it and
+link to it. No other rights are granted.
+
+The YumYum app source code is not part of this repository, and no license to
+it is granted here.
+
+Third-party material inside slides/yumyum-mvp-result.html keeps its own license:
+
+- Food photos adapted from Wikimedia Commons under CC0, CC BY, or CC BY-SA.
+  Adaptations of CC BY-SA photos are shared under the same license.
+  Per-image authors, sources, and licenses:
+  https://popo473056.github.io/yumyum-app/credits.html
+- Gowun Dodum font, SIL Open Font License 1.1.
